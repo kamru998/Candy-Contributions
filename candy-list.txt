@@ -4,3 +4,4 @@ black candy -> purple candy
 blue candy -> bonous
 blue candy plus -> bonous 2
 nevy blue candy
+contributor red candy
